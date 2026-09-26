@@ -1,0 +1,9 @@
+{
+  // Show .eml files as plain text, never render them
+  "files.associations": { "*.eml": "plaintext" },
+  // Stop Ctrl+click from opening links inside the phishing samples
+  "editor.links": false,
+  // Long header lines are easier to read wrapped
+  "editor.wordWrap": "on",
+  "workbench.startupEditor": "none"
+}
