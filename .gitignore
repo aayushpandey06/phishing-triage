@@ -1,0 +1,6 @@
+# real malicious emails, don't republish them
+samples/
+# my own study notes, not part of the write-up
+HINTS.md
+__pycache__/
+triage_output.txt
